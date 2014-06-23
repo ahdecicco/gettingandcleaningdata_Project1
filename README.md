@@ -3,7 +3,7 @@ gettingandcleaningdata_Project1
 
 Getting and Cleaning Data Course; repo for project 1.
 
-<h3>PROJECT DESCRIPTION
+<h3>REPOSITORY DESCRIPTION
 
 This repository contains data, instructions, a runnable R script, and a codebook to use with Project 1 of the Getting and Cleaning Data Course through Coursera. 
 
