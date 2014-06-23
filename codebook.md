@@ -1,6 +1,6 @@
 
 Codebook
-==================================================================
+---------------------
 
 The data used in the script contained in this repository is described below. The text below is from a readme file created by the originators of the dataset, and is reproduced in its entirety below.The data itself can be found at the following location: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
